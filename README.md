@@ -1,3 +1,3 @@
-# Earthquick-Detector-Alarm
+# Earthquake-Detector-Alarm
 
 The Earthquake Detector Alarm project is designed to detect seismic activity and provide an early warning through an audible alarm. Using a combination of sensors such as an accelerometer and a microcontroller (e.g., Arduino), the system monitors ground vibrations in real time. When abnormal seismic activity is detected, the alarm is triggered to alert users. The project includes hardware schematics, source code for sensor interfacing, and instructions for building the system. This project is ideal for those interested in disaster preparedness, sensor technology, and real-time alert systems.
